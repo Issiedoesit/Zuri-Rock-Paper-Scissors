@@ -43,8 +43,8 @@ while True:
         player_two = 'Scissors'
 
 
-    print('You played', player_one)
-    print('Computer played', player_two)
+    print('You (Player) played', player_one)
+    print('Computer (CPU) played', player_two)
 
     print(' ')
 
