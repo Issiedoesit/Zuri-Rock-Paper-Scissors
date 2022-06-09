@@ -1,5 +1,5 @@
 import random
-import click
+
 print('')
 print('Welcome to Rock Paper Scissors game')
 print('')
